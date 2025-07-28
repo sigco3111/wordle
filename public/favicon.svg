@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>워들 파비콘</title>
+    <g stroke="none" fill="none">
+        <rect fill="#18181B" x="0" y="0" width="32" height="32" rx="4"></rect>
+        <rect fill="#16A34A" x="2" y="2" width="6" height="6" rx="1"></rect>
+        <rect fill="#CA8A04" x="10" y="2" width="6" height="6" rx="1"></rect>
+        <rect fill="#3F3F46" x="18" y="2" width="6" height="6" rx="1"></rect>
+        <rect fill="#3F3F46" x="2" y="10" width="6" height="6" rx="1"></rect>
+        <rect fill="#16A34A" x="10" y="10" width="6" height="6" rx="1"></rect>
+        <rect fill="#CA8A04" x="18" y="10" width="6" height="6" rx="1"></rect>
+        <rect fill="#3F3F46" x="2" y="18" width="6" height="6" rx="1"></rect>
+        <rect fill="#3F3F46" x="10" y="18" width="6" height="6" rx="1"></rect>
+        <rect fill="#16A34A" x="18" y="18" width="6" height="6" rx="1"></rect>
+        <text x="26" y="28" font-family="Arial" font-size="12" font-weight="bold" fill="white">W</text>
+    </g>
+</svg> 

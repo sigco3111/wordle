@@ -1,0 +1,6 @@
+{
+  "name": "Wordle Game",
+  "description": "A classic word-guessing game where you have six tries to guess a five-letter word. Feedback is given for each guess in the form of colored tiles indicating when letters match or occupy the correct position.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
