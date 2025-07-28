@@ -2,7 +2,7 @@
 
 React와 TypeScript로 만든 클래식 단어 추측 게임 '워들'의 클론 프로젝트입니다. 플레이어는 6번의 기회 안에 5글자 비밀 단어를 맞혀야 합니다. 이 프로젝트는 모던 웹 기술을 사용하여 깔끔한 UI와 부드러운 사용자 경험을 제공하는 데 중점을 두었습니다.
 
-실행주소1 : https://wordle.vercel.app/
+실행주소1 : https://wordle-one-sigma.vercel.app/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
